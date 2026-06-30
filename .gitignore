@@ -1,0 +1,31 @@
+# OS / editor artefacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+
+# PowerPoint temporary files (created while a deck is open)
+~$*.pptx
+~$*.pptm
+~$*.ppsx
+~$*.xlsx
+~$*.docx
+
+# Exported / generated PDFs are intentionally committed; ignore only auto-exports
+# kept in scratch folders
+scratch/
+
+# Node (if any demo code uses it)
+node_modules/
+npm-debug.log*
+
+# Python (if any demo code uses it)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
