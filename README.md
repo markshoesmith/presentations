@@ -6,9 +6,7 @@ Slides and other artifacts from conference talks and presentations by [Mark Shoe
 
 | Year | Conference / Event | Topic | Slides | Resources |
 |------|-------------------|-------|--------|-----------|
-| –    | –                 | –     | –      | –         |
-
-> Presentations will be listed here as they are added to the repository.
+| 2026 | [Global Fabric Day 2026 – Toronto](https://community.fabric.microsoft.com/t5/Toronto-Fabric-Power-BI-User/Global-Fabric-Day-2026-Toronto/ev-p/5161097) | Data Loss Prevention For OneLake | [PDF](./06-2026%20-%20Global%20Fabric%20Day%202026/Data%20Loss%20Prevention%20For%20OneLake.pdf) · [PPTX](./06-2026%20-%20Global%20Fabric%20Day%202026/Data%20Loss%20Prevention%20For%20OneLake.pptx) | [Resources](./06-2026%20-%20Global%20Fabric%20Day%202026/resources/) |
 
 ## Repository Structure
 
@@ -21,15 +19,6 @@ YYYY-MM_conference_topic/
 ├── slides.pdf       # Exported PDF version of the slides
 └── resources/       # Code samples, demos, supplementary material
 ```
-
-See [`template/`](./template/) for a blank starter you can copy when adding a new presentation.
-
-## Adding a New Presentation
-
-1. Copy the `template/` folder and rename it to match the convention above.
-2. Add your slides and any supporting resources.
-3. Fill in the `README.md` inside the new folder with the talk abstract, event details, and any relevant links.
-4. Add a row to the table in this file.
 
 ## License
 
