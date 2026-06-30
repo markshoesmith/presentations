@@ -3,7 +3,7 @@
 > **Global Fabric Day 2026** — June 2026  
 > Toronto, ON, Canada
 
-![Global Fabric Day 2026](https://raw.githubusercontent.com/microsoft/Fabric-Readiness/main/assets/logo.png)
+![Global Fabric Day 2026](./resources/banner.png)
 
 ## Abstract
 
